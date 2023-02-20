@@ -1,5 +1,5 @@
 ---
-title: "Innovbot software documentation"
+title: "Introduction"
 ---
 
 The software documentation is divided into frontend and backend.
