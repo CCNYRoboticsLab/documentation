@@ -12,6 +12,7 @@
     "@mdx-js/loader": "^1.6.22",
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
+    "@mkitio/gatsby-theme-password-protect": "^2.1.2",
     "@philpl/buble": "^0.19.7",
     "@playlyfe/gql": "^2.6.2",
     "@styled-icons/fa-brands": "^10.26.0",
